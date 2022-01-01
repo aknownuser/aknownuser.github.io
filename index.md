@@ -1,4 +1,9 @@
 
+---
+layout: home
+author_profile: true
+---
+
 Syntax highlighted code block
 
 # Header 1
