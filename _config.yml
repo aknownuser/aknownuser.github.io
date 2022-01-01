@@ -1,8 +1,17 @@
 title: AKnownUser Research
-author: Oussama El azizi
+
 description: Blog that contains my research and learning process in IR and malware analysis
 github_username: aknownuser
 
+#Site author
+author:
+  name: "Oussama El Azizi"
+  bio: "Interested in malware and analysing stuff"
+  location: "Barcelona, Spain"
+  links:
+    - label: "LinkedIn"
+      incon: "fab fa-fw fa-linkedin" 
+      url: "www.linkedin.com/in/oussama-el-azizi-b67815110"
 #Builds settings
 plugins: [ "jekyll-include-cache" ]
 lsi: false
