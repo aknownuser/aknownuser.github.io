@@ -1,1 +1,9 @@
+title: AKnownUser Research
+author: Oussama El azizi
+email: - 
+description: Blog that contains my research and learning process in IR and malware analysis
+github_username: aknownuser
+
+#Builds settings
+markdown: kramdown
 theme: jekyll-theme-minimal
