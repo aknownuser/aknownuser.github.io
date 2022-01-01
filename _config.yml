@@ -5,5 +5,14 @@ description: Blog that contains my research and learning process in IR and malwa
 github_username: aknownuser
 
 #Builds settings
-markdown: kramdown
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
 theme: jekyll-theme-minimal
