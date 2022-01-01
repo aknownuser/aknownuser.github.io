@@ -4,6 +4,7 @@ description: Blog that contains my research and learning process in IR and malwa
 github_username: aknownuser
 
 #Builds settings
+plugins: [ "jekyll-include-cache" ]
 lsi: false
 safe: true
 incremental: false
