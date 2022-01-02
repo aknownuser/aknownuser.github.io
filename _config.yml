@@ -24,4 +24,20 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
   
+  
+# Theme settings   
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dark"
+
+#Language settings
+local: "en-US"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+      read_time: true
+
