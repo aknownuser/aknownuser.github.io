@@ -1,7 +1,6 @@
 ---
 title: "Welcome to my site"
 layout: splash
-permalink: /welcome/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -13,11 +12,12 @@ intro:
 
 
 feature_row2:
-  - image_path: /assets/CV-unsplash.jpg
+  - image_path: /assets/dogo-unsplash.jpg
     alt: "Review post"
     title: "Posts"
-    caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-    excerpt: 'Review all the posts in this website, goign from posts about malware analysis to HackTheBox challenges and more'
+    caption: "Photo credit: [**Kevin Butz**](https://unsplash.com/@kevin_butz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+  
+    excerpt: 'Review all the posts in this website, goign from posts about malware analysis to HackTheBox challenges and more. The picture is a dogo, !nothing to do with the posts!'
     url: "#test-link"
     btn_label: "Go to posts"
     btn_class: "btn--primary"
