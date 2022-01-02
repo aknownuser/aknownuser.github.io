@@ -1,6 +1,12 @@
 ---
 title: "First Post"
-author_profile: true
+layout: single
+classes: wide
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
 ---
+
+#Heading
 
 This is the first post
