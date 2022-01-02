@@ -14,7 +14,7 @@ author:
       url: "www.linkedin.com/in/oussama-el-azizi-b67815110"
  
  #Footer config:
- footer:
+footer:
   links:
     - label: "LinkedIn"
       incon: "fab fa-linkedin" 
