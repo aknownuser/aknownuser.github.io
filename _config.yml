@@ -11,14 +11,14 @@ author:
   links:
     - label: "LinkedIn"
       incon: "fab fa-linkedin-in" 
-      url: "www.linkedin.com/in/oussama-el-azizi-b67815110"
+      url: "https://www.linkedin.com/in/oussama-el-azizi-b67815110"
  
  #Footer config:
 footer:
   links:
     - label: "LinkedIn"
       incon: "fab fa-linkedin" 
-      url: "www.linkedin.com/in/oussama-el-azizi-b67815110"
+      url: "https://www.linkedin.com/in/oussama-el-azizi-b67815110"
       
 #Builds settings
 plugins: [ "jekyll-include-cache" ]
