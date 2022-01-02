@@ -7,6 +7,6 @@ toc_label: "Contents"
 toc_icon: "cog"
 ---
 
-#Heading
+## Heading
 
 This is the first post
