@@ -17,7 +17,7 @@ feature_row2:
     title: "Posts"
     caption: "Photo credit: [**Kevin Butz**](https://unsplash.com/@kevin_butz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
   
-    excerpt: 'Review all the posts in this website, goign from posts about malware analysis to HackTheBox challenges and more. The picture is a dogo, !nothing to do with the posts!'
+    excerpt: 'Review all the posts in this website, going from posts about malware analysis, OSINT to HackTheBox challenges and more. The picture is a dogo, nothing to do with the posts!'
     url: "#test-link"
     btn_label: "Go to posts"
     btn_class: "btn--primary"
